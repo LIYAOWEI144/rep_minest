@@ -1,0 +1,4 @@
+interface:
+  display_name: "GROMACS Ligand QM Refinement"
+  short_description: "QM-refine ligand charges and bonded terms for GROMACS"
+  default_prompt: "Use $gromacs-ligand-qm-refinement to validate my ligand, review CGenFF penalties, fit justified QM charge and bonded parameters, and deliver matched GROMACS files."
